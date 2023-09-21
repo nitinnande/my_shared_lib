@@ -1,7 +1,7 @@
-def add(){
+def add(x,y){
     echo "The sum of $a and $b is $(a+b)"
 }
 
-def mul(){
+def mul(x,y){
     echo "The sum of $a and $b is $(a*b)"
 }
